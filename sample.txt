@@ -5,4 +5,5 @@ qqq
 
 
 
-commit : 記錄索引的狀態
+commit : 記錄索引的
+commit : 記錄遠端數據庫內容
